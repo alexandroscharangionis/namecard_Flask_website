@@ -1,1 +1,1 @@
-# namecard_Flask_website
+# Namecard landing-page using Flask
